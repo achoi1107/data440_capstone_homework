@@ -26,6 +26,13 @@ This project focuses on designing and implementing a custom class for Locally We
 
 Link to [project 1](./homework1.md)
 
+
+### Project 2
+
+In this project, I will develop a class that implements the Gradient Boosting concept using the locally weighted regression method (Lowess), incorporating essential functionality such as fitting the model, checking if it is fitted, and making predictions with a user-defined number of boosting steps. I plan to apply this model to real datasets for regression tasks, utilizing 10-fold cross-validation to evaluate performance while comparing the effects of different scalers—StandardScaler, MinMaxScaler, and QuantileScaler—on the results. Specifically, I will analyze the Concrete dataset to determine hyperparameters that yield lower Mean Squared Errors (MSE) than those produced by the eXtream Gradient Boosting library. Additionally, I will implement a version of Locally Weighted Logistic Regression (LWLR) and compare its performance on the Iris dataset with a reference implementation, aiming to assess the effectiveness of my custom LWLR in classification tasks.
+
+Link to [project 2](./homework2.md)
+
 ## Future Projects 
 
 Not here yet...
