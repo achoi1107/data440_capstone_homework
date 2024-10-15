@@ -1,10 +1,10 @@
-# HW1 - Gradient Boosting Class and Locally Weighted Logistic Regression
+# HW2 - Gradient Boosting Class and Locally Weighted Logistic Regression
 ### Andrew Choi
 ### DATA 440 Capstone Projects
 
 # Part 1: Creating a class that implements the Gradient Boosting concept, based on the locally weighted regression method (Lowess class), and that allows a user-prescribed number of boosting steps. 
 
-## Defining the Libraries and Kernels
+## Defining the classes and device
 
 The screenshot below showcases the kernels defined for the Lowess class.
 

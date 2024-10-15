@@ -33,6 +33,13 @@ In this project, I will develop a class that implements the Gradient Boosting co
 
 Link to [project 2](./homework2.md)
 
+
+### Project 3
+
+For this project, I will develop a custom PyTorch class that implements SCAD (Smoothly Clipped Absolute Deviation) regularization for linear models. My goal is to explore how SCAD performs in variable selection by penalizing large coefficients, and I will test this on a real dataset to determine feature importance. Additionally, I will generate 200 simulated datasets with a strong correlation structure (around 0.9) to compare SCAD against ElasticNet and SqrtLasso, evaluating which method best approximates an ideal solution represented by a designed "betastar" with a chosen sparsity pattern. Finally, I will apply these methods to the Concrete dataset, which includes quadratic interaction terms, to identify the ideal model size (number of non-zero coefficients) and compute the cross-validated mean square error (MSE). Through this process, I aim to determine the most effective regularization technique for feature selection and model performance.
+
+Link to [project 3](./homework3.md) 
+
 ## Future Projects 
 
 Not here yet...
