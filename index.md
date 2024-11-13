@@ -40,6 +40,13 @@ For this project, I will develop a custom PyTorch class that implements SCAD (Sm
 
 Link to [project 3](./homework3.md) 
 
+
+### Project 4
+
+In this project, we tackled the issue of class imbalance in the Porto Seguro Safe Driver Prediction dataset by applying three advanced oversampling techniques: SMOTE (Synthetic Minority Oversampling Technique), ADASYN with FastKDE, and Normalizing Flows. Each method generates synthetic data points for the minority class (insurance claims) to improve model performance. We evaluated these approaches using Stratified K-Fold cross-validation, reporting metrics like confusion matrices, accuracy, and recall scores to assess their effectiveness in balancing the dataset and enhancing prediction accuracy. The results demonstrated the benefits of targeted oversampling for handling imbalanced data.
+
+Link to [project 4](./homework4.md)
+
 ## Future Projects 
 
 Not here yet...
